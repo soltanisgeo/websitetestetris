@@ -8,7 +8,6 @@ sections:
   - block: hero
     content:
       title: |
-        European Tsunami Risk Service
       image:
         filename: welcome.jpg
       text: |       
