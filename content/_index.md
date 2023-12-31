@@ -15,7 +15,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Trainings
       subtitle:
       text:
       count: 5
@@ -41,7 +41,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: one.jpg
           filters:
             brightness: 1
           parallax: false
@@ -57,7 +57,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="About ETRiS →" %}}
     design:
       columns: '1'
 ---
