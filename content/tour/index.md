@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Data and Data products
-        content: 'for Tsunami risk assessment'
+        content: 'For Tsunami risk assessment'
         align: left
         background:
           image:
