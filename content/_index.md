@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: ETRiS
 date: 2022-10-24
 type: landing
 
@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        ETRiS is a DDSS (Data, Data products, Services, and Software) service for tsunami risk. This service is part of the candidate Thematic Core Service for tsunami and is integrated into the Integrated Core Service Data Portal of the European Plate Observing System (EPOS). The primary objective of this service is virtual access provision for DDSS for tsunami vulnerability and risk components.
   
   - block: collection
     content:
