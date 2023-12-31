@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        ETRiS
+        European Tsunami Risk Service
       image:
         filename: welcome.jpg
       text: |
