@@ -22,7 +22,7 @@ sections:
           icon:
           icon_pack: fas
           text: Maps
-          url: ../contact/ 
+          url: 'https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/etris_geodata.shp' 
       - title: Data and Data products
         content: 'For Tsunami risk assessment'
         align: left
@@ -52,7 +52,7 @@ sections:
           icon: 
           icon_pack: fas
           text: Sofware
-          url: ../contact/
+          url: 'https://github.com/eurotsunamirisk/trmtk'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
