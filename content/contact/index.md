@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-      email: f.jalayer@ucl.ac.uk/hossein.ebrahimianchelehkhaneh@unina.it 
+      email: f.jalayer@ucl.ac.uk      /     hossein.ebrahimianchelehkhaneh@unina.it 
       phone: 
       address:
         street: WC1E 6BT Gower Street
