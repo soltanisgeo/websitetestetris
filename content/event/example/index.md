@@ -1,24 +1,17 @@
 ---
-title: Example Event
+title: ETRiS – Geo-INQUIRE online training course
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ETRiS – Geo-INQUIRE online training course
+event_url: https://www.geo-inquire.eu/dissemination/training-activities/etris
+location: Virtual training course
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Basic concepts of a forward probabilistic hazard and risk analysis
+abstract: 'In this online training course, the basic concepts of a forward probabilistic hazard and risk analysis are covered. Within such framework, the attendees will get a first lesson about the concept of fragility and the underlying assumptions of fragility for a class of assets exposed to risk. These concepts are further explored related to empirical fragility assessment. It is explained, at an introductory level, how the Bayesian inference, generalized regression models, and Markov Chan Monte Carlo simulation methods can be used for fitting and selecting the most suitable fragility model, given the available data. The attendees will also get a first glimpse into derivation of vulnerability functions based on convolution of fragility and consequence functions. A special focus is on the treatment and propagation of uncertainties in the fragility model parameters because of limited number of available data.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-11-06T09:00:00Z'
+date_end: '2030-11-07T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
