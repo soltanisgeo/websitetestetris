@@ -9,8 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-      email: f.jalayer@ucl.ac.uk
-      email: hossein.ebrahimianchelehkhaneh@unina.it
+      email: f.jalayer@ucl.ac.uk/hossein.ebrahimianchelehkhaneh@unina.it 
       phone: 
       address:
         street: WC1E 6BT Gower Street
@@ -20,8 +19,8 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '51.5246'
+        longitude: '0.1340'
       directions: 
       office_hours:
         - 'Monday 10:00 to 13:00'
