@@ -8,13 +8,13 @@ main:
     url: tour
     weight: 10
   - name: Maps
-    url: post
+    url: maps
     weight: 20
   - name: Data
-    url: post1
+    url: data
     weight: 30
   - name: Risk toolkit
-    url: post2
+    url: software
     weight: 40
   - name: People
     url: people
@@ -23,7 +23,7 @@ main:
     url: event
     weight: 50
   - name: News
-    url: post3
+    url: news
     weight: 60
   - name: Contact
     url: contact
