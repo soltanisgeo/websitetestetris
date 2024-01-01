@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Data Products
 
 # Listing view
 view: card
