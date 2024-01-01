@@ -37,7 +37,7 @@ sections:
           icon:
           icon_pack: fas
           text: Data & Data products
-          url: [Data & Data products](https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data_products)
+          url: 'https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data_products'
       - title: Software
         content: 'The Tsunami risk modeller toolkit'
         align: right
