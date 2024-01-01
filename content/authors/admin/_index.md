@@ -3,8 +3,8 @@
 title: Fatemeh Jalayer
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Fatemeh
+last_name: Jalayer
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: q 
 
 interests:
   - Artificial Intelligence
