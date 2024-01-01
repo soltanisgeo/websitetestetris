@@ -19,8 +19,8 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '51.5246'
-        longitude: '0.1340'
+        latitude: '51.52424'
+        longitude: '-0.1294'
       directions: 
       office_hours:
         - 'Monday 10:00 to 13:00'
