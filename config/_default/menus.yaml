@@ -7,18 +7,24 @@ main:
   - name: Home
     url: tour
     weight: 10
-  - name: News
+  - name: Maps
     url: post
     weight: 20
+  - name: Data & Data products
+    url: post1
+    weight: 30
+  - name: Risk toolkit
+    url: post2
+    weight: 40
   - name: People
     url: people
-    weight: 30
-  - name: Events
+    weight: 70
+  - name: Training
     url: event
-    weight: 40
-  - name: Publications
-    url: publication
     weight: 50
+  - name: News
+    url: post3
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
