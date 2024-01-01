@@ -1,5 +1,5 @@
 ---
-title: Trainings
+title: Training
 
 # Listing view
 view: compact
