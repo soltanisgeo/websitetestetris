@@ -18,11 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-		link:
-          icon: 
+        link:
+          icon:
           icon_pack: fas
           text: Maps
-          url: ../contact/
+          url: ../contact/ 
       - title: Data and Data products
         content: 'For Tsunami risk assessment'
         align: left
@@ -33,10 +33,10 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-		link:
-          icon: 
+        link:
+          icon:
           icon_pack: fas
-          text: Data & Data Products
+          text: Data & Data products
           url: ../contact/
       - title: Software
         content: 'The Tsunami risk modeller toolkit'
