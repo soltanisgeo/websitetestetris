@@ -51,7 +51,7 @@ sections:
         link:
           icon: 
           icon_pack: fas
-          text: Sofware
+          text: Software
           url: 'https://github.com/eurotsunamirisk/trmtk'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
