@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Fatemeh Jalayer
+title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Fatemeh
-last_name: Jalayer
+first_name: Nelson
+last_name: Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Responsible
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: University college London
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: q 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Hossein Ebrahimian
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Hossein 
-last_name: Ebrahimian
+first_name: Alice
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - 
+  - 吳恩達
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Validation and Posr Proccessing
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
