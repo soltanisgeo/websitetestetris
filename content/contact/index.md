@@ -15,7 +15,7 @@ sections:
         street: WC1E 6BT Gower Street
         city: London
         region: UK
-        postcode: '44'
+        postcode: ''
         country: United Kingdom
         country_code: UK
       coordinates:
