@@ -1,5 +1,5 @@
 ---
-title: MAPS FOR DATASETS AND DATA PRODUCTS FROM PAST TSUNAMI EVENTS
+title:
 date: 2020-12-02
 image:
   focal_point: 'top'
